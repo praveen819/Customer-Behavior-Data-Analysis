@@ -1,5 +1,15 @@
 # 🛍️ **Customer Shopping Behavior – End-to-End Data Analytics Project**
 
+---
+
+## 🧩 **Overview**
+This project explores **customer shopping behavior** using a dataset containing demographic details, purchase history, and preferences.  
+It demonstrates a complete **data analytics pipeline** — from Python-based EDA to SQL analytics and **Power BI dashboarding** — culminating in a business insights report.  
+
+🎯 **Objective:** Understand customer segments, spending patterns, and factors driving revenue growth.  
+🧠 **Key Skills:** Data Wrangling | SQL | Visualization | Power BI | Reporting | EDA | AIML (Feature Engineering & Clustering)
+
+---
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
@@ -11,15 +21,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?logo=plotly&logoColor=blue)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3F4F75?logo=python&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white)
-
----
-
-## 🧩 **Overview**
-This project explores **customer shopping behavior** using a dataset containing demographic details, purchase history, and preferences.  
-It demonstrates a complete **data analytics pipeline** — from Python-based EDA to SQL analytics and **Power BI dashboarding** — culminating in a business insights report.  
-
-🎯 **Objective:** Understand customer segments, spending patterns, and factors driving revenue growth.  
-🧠 **Key Skills:** Data Wrangling | SQL | Visualization | Power BI | Reporting | EDA | AIML (Feature Engineering & Clustering)
 
 ---
 
