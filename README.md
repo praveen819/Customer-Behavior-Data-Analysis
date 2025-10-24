@@ -46,6 +46,18 @@ It demonstrates a complete **data analytics pipeline** — from Python-based EDA
 | **Visualization** | Power BI |
 | **Reporting** | PowerPoint (PPT) |
 | **Documentation** | Markdown (README) |
+---
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=power-bi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?logo=plotly&logoColor=blue)
+![Seaborn](https://img.shields.io/badge/Seaborn-3F4F75?logo=python&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white)
 
 ---
 
